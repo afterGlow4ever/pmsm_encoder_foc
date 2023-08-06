@@ -1,0 +1,23 @@
+timer 168mhz
+arr=168000/18
+
+timer period =5.96ns one clip
+total timer update = 55.6us
+
+first stage
+first commutation = 55.6*1100= 61.16ms
+initial speed = max/20 = 150rpm
+2.5 rper second
+first commutation 1/12 r = 33.3ms()
+(600?)
+
+mine
+first stage
+first commutation = 50*1200= 60ms
+initial speed = max/10 = 300rpm
+5 rper second
+first commutation 1/12 r = 16.7ms()
+
+
+
+
